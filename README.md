@@ -2,5 +2,11 @@
 <p> At the moment, I'm putting more effort in others projects but later i'll come back to this one </p>
 
 
+
+
+
+
+
+
 <p> I'm using Pandas and YFinance to manipulate the data, and also matplotlib to portray the info</p>
 <p>For instance, dont use it for anything that might risk your capital, do not take any financial advises(I do not take any responsabilities). I'm just a Python guy learning some new stuff</p>
